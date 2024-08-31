@@ -1,3 +1,3 @@
 # Note-Taking-App
 
-Note taking app project in React, Javascript
+Note taking app project organizing in React, Javascript 
